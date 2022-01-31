@@ -1,0 +1,13 @@
+.meetings-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pagination-component {
+  position: fixed;
+  bottom: 0%;
+  right: 10%;
+}
